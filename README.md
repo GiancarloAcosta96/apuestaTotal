@@ -19,7 +19,14 @@ Posterior a la recarga, el sistema actualiza el saldo del cliente y lo visualiza
 El sistema registra el historial de recargas del cliente, incluyendo el monto de las recargas, el medio de comunicación utilizado y el banco utilizado para el depósito.
 
 *** EL DIAGRAMA SE ENCUENTRA EN LA CARPETA RAÌZ DEL PROYECTO ***
-El archivo se llama modeloDatos.drawio
+El archivo se llama Diagrama.png
+
+++++ Se realizó el proyecto con algunos detalles +++++
+- En la aplicación web se puede visualizar la tabla principal con los datos de los clientes, así como su saldo total actual, este cambia a medida que se incremente el saldo.
+- La aplicación web puede crear el usuario con datos básicos (DNI, nombre, apellidos) y el playerId aleatorio de 4 dígitos
+- La aplicación web puede realizar una recarga respectiva al cliente creado con los datos solicitados (monto en soles, banco, canal de atención, fecha de recarga y hora de recarga)
+- La aplicación puede ver el historial de recargas independiente de cada cliente
+
 
 Requisitos del Sistema
 Antes de comenzar, asegúrate de tener instalados los siguientes requisitos en tu sistema:
