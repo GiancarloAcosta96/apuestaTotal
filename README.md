@@ -32,8 +32,7 @@ MySQL
 Instalación
 Sigue estos pasos para instalar y configurar el proyecto en tu máquina local:
 
-Clona el repositorio:
-git clone https://github.com/tuusuario/proyecto-clientes-recargas.git
+Clona el repositorio
 
 Instala las dependencias de Laravel:
 cd proyecto-clientes-recargas
